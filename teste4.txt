@@ -1,0 +1,7 @@
+•	git commit –m “COMMIT INICIAL”
+•	git diff (Visualiza o que foi modificado – antes do commit);
+•	git log –p -1 (um historico ultima alteração do commit)
+•	gitk  (interface gráfica).
+•	git 	commit –a – m “messagem a ser escrita ”
+•	git diff (verifica o que foi alteradado no arquivo )
+•	git diff –staged verifiac o qe vai seadicionado a minha sala de espera 
